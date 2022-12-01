@@ -13,7 +13,7 @@ const BUTTON1 = 12;
 const BUTTON2 = 13;
 
 function preload() {
-  earthTexture = loadImage("images/earth-texture-night.jpg");
+  earthTexture = loadImage("images/CrowtherLab_combined.png");
   cloudTexture = loadImage("images/cloud-texture.png");
   Roboto = loadFont("roboto.ttf");
 }
